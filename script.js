@@ -7,5 +7,5 @@ let circleVolume = (4/3) * PI * (r ** 3);
 document.write('The radius of the sphere is ' + circleRadius + '.' + '<br>');
 document.write('The circumference is ' + circleCircumference + '.' + '<br>');
 document.write('The surface area is ' + circleSurfaceArea  + '.' + '<br>');
-document.write('The volume is ' + circleVolume +  + '.' + '<br>');
+document.write('The volume is ' + circleVolume + '.' + '<br>');
 
